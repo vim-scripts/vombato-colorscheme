@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3905
+
+This is a colorscheme forked from wombat, but more complete.
+Right now it's gui only, you can use it in a terminal with the
+ColorSupport plugin.
+
+Screenshot: https://github.com/molok/vim-vombato-colorscheme/raw/master/img/vombato.png
+
+Official repository / bug tracker: https://github.com/molok/vim-vombato-colorscheme/
+
